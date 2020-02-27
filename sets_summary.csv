@@ -1,4 +1,4 @@
-set,name,display_str,release_date,cmc,power,toughness,effectiveness
+set,name,display_str,release_date,avg_cmc,avg_power,avg_toughness,avg_effectiveness
 lea,Limited Edition Alpha,LEA (1993),1993-08-05,3.4235294117647057,2.2588235294117647,2.988235294117647,-0.5080651534413427
 leb,Limited Edition Beta,LEB (1993),1993-10-04,3.4235294117647057,2.2588235294117647,2.988235294117647,-0.5080651534413427
 2ed,Unlimited Edition,2ED (1993),1993-12-01,3.4235294117647057,2.2588235294117647,2.988235294117647,-0.5080651534413427
