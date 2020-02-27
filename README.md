@@ -1,10 +1,14 @@
-# Data Science: MTG Power-Creep
+# Are cards in "Magic: the Gathering" getting better?
 
 Work in Progress.
 
 This is a small personal project for me to practice some Data Science concepts I am currently learning.
 
+In this project there will be some Data Cleaning, Data Analysis and Visualization.
+
 ## Goal
 Analyse the power-creep (increase in effectiveness) over the years in Magic: The Gathering, a trading card game.
-To simplify, I chose to narrow the cards down to the draftable core set creatures, as they, in my opinion, are the easiest ones to measure power-creep with.
-I will focus on the evolution of the relation between the mana cost of a creature and its stats (power + toughness).
+
+#### Please check the notebook file "MTG - Creature Power-Creep.ipynb" for more explanation, documentation, and the code for the Data Cleaning part.
+
+
